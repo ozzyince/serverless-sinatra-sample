@@ -1,4 +1,4 @@
-## Running Ruby Sinatra on AWS Lambda
+## Running Ruby Sinatra on AWS Lambda ##
 
 This sample code helps get you started with a simple Sinatra web app deployed on AWS Lambda. It is tested with Ruby 2.5.x and bundler-1.17.x. 
 
